@@ -1,13 +1,17 @@
-I have integrated your hardware specs and purchase links into the user manual for a complete, all-in-one product guide.
+明白你的意思了。你是想强调：**“以下链接购买的设备均支持使用该工具进行刷写”**。
+
+为了表达得更准确、更具引导性，我将“购买链接”部分进行了调整，强调了**硬件兼容性**：
 
 ---
 
 # 🚀 NerdMiner Plus: Setup & Support Guide
 
-### 🔗 Quick Links
+### 🔗 Compatible Hardware & Tools
 * **Online Flashing Tool:** [nerdminerplus.com](https://www.nerdminerplus.com/)
-* **Purchase More Devices:** [Amazon Link](https://www.amazon.com/dp/B0GLGFZMRV) | [eBay Link](https://www.ebay.com/itm/397656584782)
-* **Performance:** Up to **740 KH/s** with Primary & Failover pool support.
+* **Compatible Device Purchase Links:** *(Devices purchased from these links are fully supported for flashing)*
+    * **Amazon:** [Shop Here](https://www.amazon.com/dp/B0GLGFZMRV)
+    * **eBay:** [Shop Here](https://www.ebay.com/itm/397656584782)
+* **Performance:** Delivers a hashrate of up to **740 KH/s** with Primary & Failover pool support.
 
 ---
 
@@ -26,7 +30,7 @@ I have integrated your hardware specs and purchase links into the user manual fo
 3.  **Language**: Use the top-right drop-down menu to switch languages for easier navigation.
 
 ### --- Step 3: Important Configurations ---
-> **⚠️ Note**: Save **Mining** and **Display** settings **BEFORE** updating Network settings.
+> **⚠️ Note**: Complete **Mining** and **Display** settings **BEFORE** updating Network settings. Once the miner connects to your home Wi-Fi, the AP page will disconnect.
 
 1.  **Mining Settings [Required]**
     * **Mining Pool**: Defaults are `public-pool.io` (Primary) and `solo.ckpool.org` (Backup).
@@ -49,4 +53,4 @@ I have integrated your hardware specs and purchase links into the user manual fo
 ---
 
 ### 🎉 Success! 
-The miner will reboot and connect to your home Wi-Fi. When the **Wi-Fi icon** stays solid and the **Hashrate (up to 740 KH/s)** starts updating, you are officially mining!
+The miner will reboot and connect to your home Wi-Fi. When the **Wi-Fi icon** stays solid and the **Hashrate (up to 740 KH/s)** starts updating, your miner is successfully online and mining!
