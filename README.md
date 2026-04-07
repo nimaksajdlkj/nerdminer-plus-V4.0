@@ -4,6 +4,7 @@
 
 ### 🔗 Compatible Hardware & Tools
 * **Centralized Monitoring:** Supports centralized monitoring. Download the monitoring service to your PC; once running, you can access the dashboard by entering the server's IP address into your phone or computer's browser.
+* ![Centralized Monitoring](https://github.com/nimaksajdlkj/nerdminer-plus-V4.0/blob/main/Centralized%20control%20&%20monitoring.png?raw=true)
 * **Online Flashing Tool:** [nerdminerplus.com](https://www.nerdminerplus.com/)
 * **Compatible Device Purchase Links:** *(Devices from these stores are fully compatible for flashing)*
     * **Amazon:** [Shop Here](https://www.amazon.com/dp/B0GLGFZMRV)
