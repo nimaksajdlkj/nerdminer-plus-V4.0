@@ -1,8 +1,11 @@
+
+
 # 🚀 NerdMiner Plus: Setup & Support Guide
 
 ### 🔗 Compatible Hardware & Tools
+* **Centralized Monitoring:** Supports centralized monitoring. Download the monitoring service to your PC; once running, you can access the dashboard by entering the server's IP address into your phone or computer's browser.
 * **Online Flashing Tool:** [nerdminerplus.com](https://www.nerdminerplus.com/)
-* **Compatible Device Purchase Links:** *(Devices purchased from these stores are fully compatible for flashing)*
+* **Compatible Device Purchase Links:** *(Devices from these stores are fully compatible for flashing)*
     * **Amazon:** [Shop Here](https://www.amazon.com/dp/B0GLGFZMRV)
     * **eBay:** [Shop Here](https://www.ebay.com/itm/397656584782)
     * **AliExpress:** [Official Store](https://www.aliexpress.com/store/1105392427)
