@@ -1,11 +1,11 @@
-
 # 🚀 NerdMiner Plus: Setup & Support Guide
 
 ### 🔗 Compatible Hardware & Tools
 * **Online Flashing Tool:** [nerdminerplus.com](https://www.nerdminerplus.com/)
-* **Compatible Device Purchase Links:** *(Devices purchased from these links are fully supported for flashing)*
+* **Compatible Device Purchase Links:** *(Devices purchased from these stores are fully compatible for flashing)*
     * **Amazon:** [Shop Here](https://www.amazon.com/dp/B0GLGFZMRV)
     * **eBay:** [Shop Here](https://www.ebay.com/itm/397656584782)
+    * **AliExpress:** [Official Store](https://www.aliexpress.com/store/1105392427)
 * **Performance:** Delivers a hashrate of up to **740 KH/s** with Primary & Failover pool support.
 
 ---
